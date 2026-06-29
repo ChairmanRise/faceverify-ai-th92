@@ -1,4 +1,4 @@
-# 
+# Avançado FaceVerify pacote. Baixe e instale com aceleração por GPU e modelos pré-configurados — rápido, seguro e fácil de usar.
 
 
 
